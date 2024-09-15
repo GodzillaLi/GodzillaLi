@@ -3,6 +3,7 @@
 
 I am currently pursuing a Master of Engineering (M.E.) degree in Information and Communication Engineering at North China University of Technology under Prof. Lijun Wang’s group. Prior to that, I earned a B.Eng. degree in Electronic Information Engineering.
 
+- 👯 I am currently actively seeking PhD opportunities in Fall 2025. If you are interested in collaborating with me, please feel free to reach out!
 - ✍ My research interests lie in the fields of 3D AIGC, Diffusion Models, and AI For Medicine and Healthcare.
 - ☘ Know more about me: [Homepage](https://godzillali.github.io)
 - 💬 Feel free to contact: [Email](li@mail.ncut.edu.cn) 

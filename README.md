@@ -1,9 +1,9 @@
 ## Hi there 👋
 ![](Bottom_up.svg)
 
-I am currently pursuing a Master of Engineering (M.E.) degree in Information and Communication Engineering at North China University of Technology under Prof. Lijun Wang’s group. My research interests lie at the 3D AIGC (Diffusion Models, 3D Gaussian Splatting), Large Language Model, and AI For Medicine and Healthcare. Prior to that, I earned a B.Eng. degree in Electronic Information Engineering.
+I am currently pursuing a Master of Engineering (M.E.) degree in Information and Communication Engineering at North China University of Technology under Prof. Lijun Wang’s group. Prior to that, I earned a B.Eng. degree in Electronic Information Engineering.
 
-- ✍ My research interests lie in the fields of Trustworthy Machine Learning, AI Red Teaming, and Biometrics Recognition.
+- ✍ My research interests lie in the fields of 3D AIGC, Diffusion Models, and AI For Medicine and Healthcare.
 - ☘ Know more about me: [Homepage](https://godzillali.github.io)
 - 💬 Feel free to contact: [Email](li@mail.ncut.edu.cn) 
 

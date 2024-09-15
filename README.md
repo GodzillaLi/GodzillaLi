@@ -7,7 +7,7 @@
 - ☘ Know more about me: [Homepage](https://godzillali.github.io)
 - 💬 Feel free to contact: [Email](li@mail.ncut.edu.cn) 
 
-<a href="https://github.com/GodzillaLi"><img src="https://github-readme-stats.vercel.app/api?username=GodzillaLi&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Jing Li's GitHub stats" /></a> | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GodzillaLi&theme=radical&layout=compact) |
+<a href="https://github.com/GodzillaLi"><img src="https://github-readme-stats.vercel.app/api?username=GodzillaLi&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Jing Li's GitHub stats" /></a>  ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GodzillaLi&theme=radical&layout=compact)
 
 ![](assets/Bottom_down.svg)
 <!--

@@ -1,7 +1,7 @@
 ## Hi there 👋
 ![](Bottom_up.svg)
 
-#I am currently pursuing a Master of Engineering (M.E.) degree in Information and Communication Engineering at North China University of Technology under Prof. Lijun Wang’s group. Prior to that, I earned a B.Eng. degree in Electronic Information Engineering.
+
 I am currently pursuing a PhD in Artificial Intelligence at Jilin University, and my co-supervisor is Professor Yawei Luo from Zhejiang University.
 
 - ✍ My research interests lie in the fields of 3D AIGC, Diffusion Models, and AI For Medicine and Healthcare.
